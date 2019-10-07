@@ -1,3 +1,7 @@
+#!/usr/bin/env groovy
+
+println "hello world"
+
 x = 1
 println x
 
